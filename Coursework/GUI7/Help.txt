@@ -1,0 +1,36 @@
+An application for implementing calculations with numbers of any length.
+
+The following functions are available in the application:
+1.  Addition.
+2.  Subtraction.
+3.  Multiplication. 
+4.  Division with any precession.
+5.  Setting precession (from 0 to any number) and notation (from 2 to 36). 
+6.  Entering data from the keyboard or reading from a text file.
+7.  Output of the result or the screen or by writing the entire expression to a text file.
+8.  Viewing the history of calculations.
+9.  Deleteing history of calculations.
+10. Loading operands from file.
+11. Saving calculations history as excel table. 
+
+How to make calculations:
+	- you should fill two fields with number in chosen notation (from 2 to 36), then select the sign (+, -, *, /). If you choose division you also can choose precession (for other operations precession is always 0); 
+	- if you enter an incorrect number, an error window will be displayed and show in which field the error occurred; 
+	- to see the result you need to press the "=" button and the result will be displayed;
+	- to clear any field you should press the button on the left side from the field;
+	- to copy data from the field tou should press on the button on the right from the field;
+	- to chose operation click on any of the round buttons. 
+
+How to use history:
+	- you may get access to the history by clicking on the "History" button;
+	- you may delete history by pressing "Delete history" button on the main screen.
+
+How to get information:
+	- to see information about the program click on the "About" button.
+
+How to use files:
+	- to load data from file press on "File" button on the menu panel and choose one of the options;
+	- you may save file as an excel table;
+	- you may load operands from file.
+
+DEVELOPED BY GLUSHACHENKO N.S. st.gr. 151004 as a course project
